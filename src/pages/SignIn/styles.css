@@ -1,0 +1,39 @@
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 60vh;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 125px;
+    border-radius: 25px;
+}
+
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+span {
+    font-size: 20px;
+    text-align: center;
+}
+
+button {
+    width: 60%;
+    padding: 9px 9px;
+    background-color: black;
+    border-radius: 4px;
+    margin-top: 20px;
+    font: bold 13.333px Arial;
+    color: white;
+    cursor: pointer;
+    outline: 0px;
+}
+
